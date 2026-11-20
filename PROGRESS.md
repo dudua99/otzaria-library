@@ -1,6 +1,6 @@
 # Library v38 delta — progress
 
-Updated: 2026-11-20T07:45:47Z
+Updated: 2026-11-20T08:15:49Z
 
 ## Phases done
 ```
@@ -13,47 +13,47 @@ Updated: 2026-11-20T07:45:47Z
 
 ## Last 30 log lines
 ```
-Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 16000/19912 lines (80%)
-Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 18000/19912 lines (90%)
-Info: (DatabaseGenerator) books 561/2705 (20.7%) · lines 951.8K · toc 196.6K · elapsed 45:26 · eta ~2:53:39
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 2000/17411 lines (11%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 4000/17411 lines (22%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 6000/17411 lines (34%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 8000/17411 lines (45%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 10000/17411 lines (57%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 12000/17411 lines (68%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 14000/17411 lines (80%)
-Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 16000/17411 lines (91%)
-Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 1000/6127 lines (16%)
-Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 2000/6127 lines (32%)
-Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 3000/6127 lines (48%)
-Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 4000/6127 lines (65%)
-Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 5000/6127 lines (81%)
-Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 6000/6127 lines (97%)
-Info: (DatabaseGenerator) books 568/2705 (20.9%) · lines 979.4K · toc 200.6K · elapsed 46:41 · eta ~2:55:39
-Info: (DatabaseGenerator) Book 6403 'חק לישראל - בראשית': 1000/5523 lines (18%)
-Info: (DatabaseGenerator) Book 6403 'חק לישראל - בראשית': 2000/5523 lines (36%)
-Info: (DatabaseGenerator) Book 6403 'חק לישראל - בראשית': 3000/5523 lines (54%)
-Info: (DatabaseGenerator) Book 6403 'חק לישראל - בראשית': 4000/5523 lines (72%)
-Info: (DatabaseGenerator) Book 6403 'חק לישראל - בראשית': 5000/5523 lines (90%)
-Info: (DatabaseGenerator) books 586/2705 (21.6%) · lines 1.0M · toc 203.7K · elapsed 47:47 · eta ~2:52:46
-Info: (DatabaseGenerator) books 686/2705 (25.3%) · lines 1.0M · toc 205.9K · elapsed 48:32 · eta ~2:22:50
-Info: (DatabaseGenerator) ⏭️ Skipping already-processed priority book: מדרש/אגדה/מדרש זוטא.txt
-Info: (IdAllocator) Category key 'מחשבת ישראל/אחרונים/רמחל' now holds 1476 (was unset)
-Info: (DatabaseGenerator) books 742/2705 (27.4%) · lines 1.0M · toc 207.4K · elapsed 49:34 · eta ~2:11:07
-Info: (DatabaseGenerator) books 780/2705 (28.8%) · lines 1.0M · toc 210.9K · elapsed 50:38 · eta ~2:04:57
-Info: (DatabaseGenerator) Book 6627 'אספקלריה אותיות א - מ': 14000/135957 lines (10%)
+Info: (DatabaseGenerator) Book 6888 'אבני נזר אבן העזר': 4000/9530 lines (41%)
+Info: (DatabaseGenerator) Book 6888 'אבני נזר אבן העזר': 5000/9530 lines (52%)
+Info: (DatabaseGenerator) Book 6888 'אבני נזר אבן העזר': 6000/9530 lines (62%)
+Info: (DatabaseGenerator) Book 6888 'אבני נזר אבן העזר': 7000/9530 lines (73%)
+Info: (DatabaseGenerator) Book 6888 'אבני נזר אבן העזר': 8000/9530 lines (83%)
+Info: (DatabaseGenerator) Book 6888 'אבני נזר אבן העזר': 9000/9530 lines (94%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 1000/9930 lines (10%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 2000/9930 lines (20%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 3000/9930 lines (30%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 4000/9930 lines (40%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 5000/9930 lines (50%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 6000/9930 lines (60%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 7000/9930 lines (70%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 8000/9930 lines (80%)
+Info: (DatabaseGenerator) Book 6889 'אבני נזר אורח חיים': 9000/9930 lines (90%)
+Info: (DatabaseGenerator) books 1071/2705 (39.5%) · lines 1.6M · toc 335.1K · elapsed 1:19:29 · eta ~2:01:16
+Info: (DatabaseGenerator) Book 6891 'אבני נזר יורה דעה': 1000/5461 lines (18%)
+Info: (DatabaseGenerator) Book 6891 'אבני נזר יורה דעה': 2000/5461 lines (36%)
+Info: (DatabaseGenerator) Book 6891 'אבני נזר יורה דעה': 3000/5461 lines (54%)
+Info: (DatabaseGenerator) Book 6891 'אבני נזר יורה דעה': 4000/5461 lines (73%)
+Info: (DatabaseGenerator) Book 6891 'אבני נזר יורה דעה': 5000/5461 lines (91%)
+Info: (DatabaseGenerator) books 1088/2705 (40.2%) · lines 1.6M · toc 337.8K · elapsed 1:20:30 · eta ~1:59:37
+Info: (DatabaseGenerator) books 1114/2705 (41.1%) · lines 1.6M · toc 340.0K · elapsed 1:21:31 · eta ~1:56:26
+Info: (DatabaseGenerator) Book 6940 'שות בית יצחק': 1000/5310 lines (18%)
+Info: (DatabaseGenerator) Book 6940 'שות בית יצחק': 2000/5310 lines (37%)
+Info: (DatabaseGenerator) Book 6940 'שות בית יצחק': 3000/5310 lines (56%)
+Info: (DatabaseGenerator) Book 6940 'שות בית יצחק': 4000/5310 lines (75%)
+Info: (DatabaseGenerator) Book 6940 'שות בית יצחק': 5000/5310 lines (94%)
+Info: (DatabaseGenerator) Book 6944 'בית שערים אורח חיים': 1000/5744 lines (17%)
+Info: (DatabaseGenerator) Book 6944 'בית שערים אורח חיים': 2000/5744 lines (34%)
 ```
 
 ## Machine
 ```
                total        used        free      shared  buff/cache   available
-Mem:           16087        5215         633          12       10581       10872
+Mem:           16087        5232         651          12       10546       10855
 Swap:              0           0           0
-/dev/vda        252G   37G   32G  54% /
- 07:45:47 up  2:14,  0 user,  load average: 1.06, 1.03, 1.03
+/dev/vda        252G   38G   32G  55% /
+ 08:15:49 up  2:44,  0 user,  load average: 1.07, 1.05, 1.00
 -rw-r--r--  1 root root 5186621440 Nov 20 06:51 seforim.db
 -rw-r--r--  1 root root  621125632 Nov 20 06:51 seforim.db.buildstate
--rw-r--r--  1 root root 6430330880 Nov 20 07:45 seforim.db.candidate
+-rw-r--r--  1 root root 7043837952 Nov 20 08:15 seforim.db.candidate
 -rw-------  1 root root       3946 Nov 20 06:49 seforim.db.link-import-metrics.json
 ```
