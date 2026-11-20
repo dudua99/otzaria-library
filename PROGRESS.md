@@ -1,6 +1,6 @@
 # Library v38 delta — progress
 
-Updated: 2026-11-20T13:16:10Z
+Updated: 2026-11-20T13:46:12Z
 
 ## Phases done
 ```
@@ -17,49 +17,49 @@ v1.done
 
 ## Last 30 log lines
 ```
-Info: (DatabaseGenerator) Book 6752 'הזהר המתורגם - במדבר': 1000/5447 lines (18%)
-Info: (DatabaseGenerator) Book 6752 'הזהר המתורגם - במדבר': 2000/5447 lines (36%)
-Info: (DatabaseGenerator) Book 6752 'הזהר המתורגם - במדבר': 3000/5447 lines (55%)
-Info: (DatabaseGenerator) Book 6752 'הזהר המתורגם - במדבר': 4000/5447 lines (73%)
-Info: (DatabaseGenerator) Book 6752 'הזהר המתורגם - במדבר': 5000/5447 lines (91%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 1000/9839 lines (10%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 2000/9839 lines (20%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 3000/9839 lines (30%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 4000/9839 lines (40%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 5000/9839 lines (50%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 6000/9839 lines (60%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 7000/9839 lines (71%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 8000/9839 lines (81%)
-Info: (DatabaseGenerator) Book 6753 'הזהר המתורגם - בראשית': 9000/9839 lines (91%)
-Info: (DatabaseGenerator) books 936/2705 (34.6%) · lines 1.5M · toc 318.1K · elapsed 1:14:46 · eta ~2:21:18
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 1000/8262 lines (12%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 2000/8262 lines (24%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 3000/8262 lines (36%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 4000/8262 lines (48%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 5000/8262 lines (60%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 6000/8262 lines (72%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 7000/8262 lines (84%)
-Info: (DatabaseGenerator) Book 6757 'הזהר המתורגם - זוהר חדש': 8000/8262 lines (96%)
-Info: (DatabaseGenerator) Book 6758 'הזהר המתורגם - שמות': 2000/10210 lines (19%)
-Info: (DatabaseGenerator) Book 6758 'הזהר המתורגם - שמות': 4000/10210 lines (39%)
-Info: (DatabaseGenerator) Book 6758 'הזהר המתורגם - שמות': 6000/10210 lines (58%)
-Info: (DatabaseGenerator) Book 6758 'הזהר המתורגם - שמות': 8000/10210 lines (78%)
-Info: (DatabaseGenerator) Book 6758 'הזהר המתורגם - שמות': 10000/10210 lines (97%)
-Info: (DatabaseGenerator) books 941/2705 (34.7%) · lines 1.5M · toc 319.3K · elapsed 1:15:49 · eta ~2:22:07
-Info: (DatabaseGenerator) books 997/2705 (36.8%) · lines 1.5M · toc 322.5K · elapsed 1:16:52 · eta ~2:11:41
+Info: (DatabaseGenerator) Book 7101 'עין יצחק חלק א': 4000/5649 lines (70%)
+Info: (DatabaseGenerator) Book 7101 'עין יצחק חלק א': 5000/5649 lines (88%)
+Info: (DatabaseGenerator) books 1287/2705 (47.5%) · lines 1.9M · toc 368.7K · elapsed 1:30:55 · eta ~1:40:09
+Info: (DatabaseGenerator) books 1311/2705 (48.4%) · lines 1.9M · toc 370.9K · elapsed 1:31:59 · eta ~1:37:47
+Info: (DatabaseGenerator) books 1337/2705 (49.4%) · lines 1.9M · toc 374.4K · elapsed 1:33:05 · eta ~1:35:14
+Info: (DatabaseGenerator) books 1357/2705 (50.1%) · lines 1.9M · toc 376.9K · elapsed 1:34:10 · eta ~1:33:31
+Info: (DatabaseGenerator) books 1378/2705 (50.9%) · lines 1.9M · toc 379.3K · elapsed 1:35:11 · eta ~1:31:39
+Info: (DatabaseGenerator) books 1400/2705 (51.7%) · lines 2.0M · toc 381.8K · elapsed 1:36:16 · eta ~1:29:44
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 3000/21920 lines (13%)
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 6000/21920 lines (27%)
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 9000/21920 lines (41%)
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 12000/21920 lines (54%)
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 15000/21920 lines (68%)
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 18000/21920 lines (82%)
+Info: (DatabaseGenerator) Book 7227 'שות פרי עץ חיים': 21000/21920 lines (95%)
+Info: (DatabaseGenerator) books 1409/2705 (52.0%) · lines 2.0M · toc 383.4K · elapsed 1:37:32 · eta ~1:29:42
+Info: (DatabaseGenerator) books 1422/2705 (52.5%) · lines 2.0M · toc 385.3K · elapsed 1:38:33 · eta ~1:28:54
+Info: (DatabaseGenerator) books 1441/2705 (53.2%) · lines 2.0M · toc 387.1K · elapsed 1:39:33 · eta ~1:27:19
+Info: (DatabaseGenerator) books 1459/2705 (53.9%) · lines 2.1M · toc 390.3K · elapsed 1:40:37 · eta ~1:25:55
+Info: (DatabaseGenerator) books 1474/2705 (54.4%) · lines 2.1M · toc 392.5K · elapsed 1:41:47 · eta ~1:25:00
+Info: (DatabaseGenerator) books 1481/2705 (54.7%) · lines 2.1M · toc 394.6K · elapsed 1:42:52 · eta ~1:25:00
+Info: (DatabaseGenerator) books 1489/2705 (55.0%) · lines 2.1M · toc 397.0K · elapsed 1:43:54 · eta ~1:24:50
+Info: (DatabaseGenerator) books 1496/2705 (55.3%) · lines 2.2M · toc 399.2K · elapsed 1:44:58 · eta ~1:24:49
+Info: (DatabaseGenerator) Book 7345 'אהל משה (הורוביץ) חלק א': 1000/5133 lines (19%)
+Info: (DatabaseGenerator) Book 7345 'אהל משה (הורוביץ) חלק א': 2000/5133 lines (38%)
+Info: (DatabaseGenerator) Book 7345 'אהל משה (הורוביץ) חלק א': 3000/5133 lines (58%)
+Info: (DatabaseGenerator) Book 7345 'אהל משה (הורוביץ) חלק א': 4000/5133 lines (77%)
+Info: (DatabaseGenerator) Book 7345 'אהל משה (הורוביץ) חלק א': 5000/5133 lines (97%)
+Info: (DatabaseGenerator) books 1545/2705 (57.1%) · lines 2.2M · toc 404.3K · elapsed 1:45:59 · eta ~1:19:33
+Info: (DatabaseGenerator) books 1567/2705 (57.9%) · lines 2.2M · toc 407.5K · elapsed 1:46:59 · eta ~1:17:41
 ```
 
 ## Machine
 ```
                total        used        free      shared  buff/cache   available
-Mem:           16087        6941        1285          12        8202        9145
+Mem:           16087        6993        1276          12        8160        9093
 Swap:              0           0           0
-/dev/vda        252G   49G   21G  71% /
- 13:16:10 up  7:45,  0 user,  load average: 1.03, 1.05, 1.00
+/dev/vda        252G   50G   20G  73% /
+ 13:46:12 up  8:15,  0 user,  load average: 1.00, 1.02, 1.00
 -rw-r--r--  1 root root  5192069120 Nov 20 11:56 seforim.db
 -rw-r--r--  1 root root  1155768320 Nov 20 11:56 seforim.db.buildstate
 -rw-r--r--  1 root root  1157332992 Nov 20 10:36 seforim.db.buildstate.v1
--rw-r--r--  1 root root  6862598144 Nov 20 13:16 seforim.db.candidate
+-rw-r--r--  1 root root  7998001152 Nov 20 13:46 seforim.db.candidate
 -rw-------  1 root root        3946 Nov 20 11:54 seforim.db.link-import-metrics.json
 -rw-r--r--  1 root root 10396733440 Nov 20 10:49 seforim.db.v1
 -rw-r--r--  1 root root       32768 Nov 20 10:50 seforim.db.v1-shm
