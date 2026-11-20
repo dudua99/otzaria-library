@@ -1,6 +1,6 @@
 # Library v38 delta — progress
 
-Updated: 2026-11-20T12:16:06Z
+Updated: 2026-11-20T12:46:08Z
 
 ## Phases done
 ```
@@ -17,49 +17,49 @@ v1.done
 
 ## Last 30 log lines
 ```
-Info: (DatabaseGenerator) Book 5867 'דור המלקטים על אבן העזר': 3000/6491 lines (46%)
-Info: (DatabaseGenerator) Book 5867 'דור המלקטים על אבן העזר': 4000/6491 lines (61%)
-Info: (DatabaseGenerator) Book 5867 'דור המלקטים על אבן העזר': 5000/6491 lines (77%)
-Info: (DatabaseGenerator) Book 5867 'דור המלקטים על אבן העזר': 6000/6491 lines (92%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 20000/190453 lines (10%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 40000/190453 lines (21%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 60000/190453 lines (31%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 80000/190453 lines (42%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 100000/190453 lines (52%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 120000/190453 lines (63%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 140000/190453 lines (73%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 160000/190453 lines (84%)
-Info: (DatabaseGenerator) Book 5868 'דור המלקטים על אורח חיים': 180000/190453 lines (94%)
-Info: (DatabaseGenerator) books 50/2705 (1.8%) · lines 279.1K · toc 16.3K · elapsed 11:11 · eta ~9:54:24
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 12000/118905 lines (10%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 24000/118905 lines (20%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 36000/118905 lines (30%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 48000/118905 lines (40%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 60000/118905 lines (50%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 72000/118905 lines (60%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 84000/118905 lines (70%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 96000/118905 lines (80%)
-Info: (DatabaseGenerator) Book 5870 'דור המלקטים על יורה דעה': 108000/118905 lines (90%)
-Info: (DatabaseGenerator) books 52/2705 (1.9%) · lines 399.9K · toc 19.4K · elapsed 16:00 · eta ~13:36:40
-Info: (DatabaseGenerator) Book 5873 'קיצור שע ילקוט יוסף החדש - אורח חיים': 2000/19287 lines (10%)
-Info: (DatabaseGenerator) Book 5873 'קיצור שע ילקוט יוסף החדש - אורח חיים': 4000/19287 lines (20%)
-Info: (DatabaseGenerator) Book 5873 'קיצור שע ילקוט יוסף החדש - אורח חיים': 6000/19287 lines (31%)
-Info: (DatabaseGenerator) Book 5873 'קיצור שע ילקוט יוסף החדש - אורח חיים': 8000/19287 lines (41%)
-Info: (DatabaseGenerator) Book 5873 'קיצור שע ילקוט יוסף החדש - אורח חיים': 10000/19287 lines (51%)
-Info: (DatabaseGenerator) Book 5873 'קיצור שע ילקוט יוסף החדש - אורח חיים': 12000/19287 lines (62%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 3000/9125 lines (32%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 4000/9125 lines (43%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 5000/9125 lines (54%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 6000/9125 lines (65%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 7000/9125 lines (76%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 8000/9125 lines (87%)
+Info: (DatabaseGenerator) Book 6356 'שושנת יעקב': 9000/9125 lines (98%)
+Info: (DatabaseGenerator) books 544/2705 (20.1%) · lines 918.4K · toc 193.4K · elapsed 44:31 · eta ~2:56:50
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 2000/19912 lines (10%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 4000/19912 lines (20%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 6000/19912 lines (30%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 8000/19912 lines (40%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 10000/19912 lines (50%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 12000/19912 lines (60%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 14000/19912 lines (70%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 16000/19912 lines (80%)
+Info: (DatabaseGenerator) Book 6379 'דברי יואל על המועדים': 18000/19912 lines (90%)
+Info: (DatabaseGenerator) books 561/2705 (20.7%) · lines 951.8K · toc 196.6K · elapsed 46:01 · eta ~2:55:50
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 2000/17411 lines (11%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 4000/17411 lines (22%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 6000/17411 lines (34%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 8000/17411 lines (45%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 10000/17411 lines (57%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 12000/17411 lines (68%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 14000/17411 lines (80%)
+Info: (DatabaseGenerator) Book 6380 'דברי יואל על התורה': 16000/17411 lines (91%)
+Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 1000/6127 lines (16%)
+Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 2000/6127 lines (32%)
+Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 3000/6127 lines (48%)
+Info: (DatabaseGenerator) Book 6386 'גנזי יוסף': 4000/6127 lines (65%)
 ```
 
 ## Machine
 ```
                total        used        free      shared  buff/cache   available
-Mem:           16087        6505        1271          12        8653        9581
+Mem:           16087        6833        1294          12        8302        9254
 Swap:              0           0           0
-/dev/vda        252G   48G   22G  69% /
- 12:16:06 up  6:45,  0 user,  load average: 1.01, 1.02, 1.04
+/dev/vda        252G   49G   21G  70% /
+ 12:46:08 up  7:15,  0 user,  load average: 1.08, 1.08, 1.02
 -rw-r--r--  1 root root  5192069120 Nov 20 11:56 seforim.db
 -rw-r--r--  1 root root  1155768320 Nov 20 11:56 seforim.db.buildstate
 -rw-r--r--  1 root root  1157332992 Nov 20 10:36 seforim.db.buildstate.v1
--rw-r--r--  1 root root  5336834048 Nov 20 12:16 seforim.db.candidate
+-rw-r--r--  1 root root  6303383552 Nov 20 12:46 seforim.db.candidate
 -rw-------  1 root root        3946 Nov 20 11:54 seforim.db.link-import-metrics.json
 -rw-r--r--  1 root root 10396733440 Nov 20 10:49 seforim.db.v1
 -rw-r--r--  1 root root       32768 Nov 20 10:50 seforim.db.v1-shm
