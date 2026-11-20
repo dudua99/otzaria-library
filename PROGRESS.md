@@ -1,6 +1,6 @@
 # Library v38 delta — progress
 
-Updated: 2026-11-20T14:16:14Z
+Updated: 2026-11-20T14:46:16Z
 
 ## Phases done
 ```
@@ -17,49 +17,49 @@ v1.done
 
 ## Last 30 log lines
 ```
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 2000/9236 lines (21%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 3000/9236 lines (32%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 4000/9236 lines (43%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 5000/9236 lines (54%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 6000/9236 lines (64%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 7000/9236 lines (75%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 8000/9236 lines (86%)
-Info: (DatabaseGenerator) Book 7824 'איזהו מקומן על סוטה': 9000/9236 lines (97%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 2000/18482 lines (10%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 4000/18482 lines (21%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 6000/18482 lines (32%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 8000/18482 lines (43%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 10000/18482 lines (54%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 12000/18482 lines (64%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 14000/18482 lines (75%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 16000/18482 lines (86%)
-Info: (DatabaseGenerator) Book 7825 'איזהו מקומן על עירובין': 18000/18482 lines (97%)
-Info: (DatabaseGenerator) books 2007/2705 (74.1%) · lines 2.9M · toc 492.8K · elapsed 2:16:17 · eta ~47:23
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 1000/8422 lines (11%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 2000/8422 lines (23%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 3000/8422 lines (35%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 4000/8422 lines (47%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 5000/8422 lines (59%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 6000/8422 lines (71%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 7000/8422 lines (83%)
-Info: (DatabaseGenerator) Book 7826 'איזהו מקומן על ערכין': 8000/8422 lines (94%)
-Info: (DatabaseGenerator) Book 7827 'איזהו מקומן על שבת': 3000/24207 lines (12%)
-Info: (DatabaseGenerator) Book 7827 'איזהו מקומן על שבת': 6000/24207 lines (24%)
-Info: (DatabaseGenerator) Book 7827 'איזהו מקומן על שבת': 9000/24207 lines (37%)
-Info: (DatabaseGenerator) Book 7827 'איזהו מקומן על שבת': 12000/24207 lines (49%)
+Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 3000/6208 lines (48%)
+Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 4000/6208 lines (64%)
+Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 5000/6208 lines (80%)
+Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 6000/6208 lines (96%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 3000/29186 lines (10%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 6000/29186 lines (20%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 9000/29186 lines (30%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 12000/29186 lines (41%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 15000/29186 lines (51%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 18000/29186 lines (61%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 21000/29186 lines (71%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 24000/29186 lines (82%)
+Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 27000/29186 lines (92%)
+Info: (DatabaseGenerator) books 2105/2705 (77.8%) · lines 3.5M · toc 586.4K · elapsed 2:44:42 · eta ~46:56
+Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 1000/5091 lines (19%)
+Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 2000/5091 lines (39%)
+Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 3000/5091 lines (58%)
+Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 4000/5091 lines (78%)
+Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 5000/5091 lines (98%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 4000/33158 lines (12%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 8000/33158 lines (24%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 12000/33158 lines (36%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 16000/33158 lines (48%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 20000/33158 lines (60%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 24000/33158 lines (72%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 28000/33158 lines (84%)
+Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 32000/33158 lines (96%)
+Info: (DatabaseGenerator) books 2107/2705 (77.8%) · lines 3.5M · toc 603.3K · elapsed 2:46:51 · eta ~47:21
+Info: (DatabaseGenerator) Book 7926 'קובץ שיטות קמאי על בבא מציעא': 3000/22472 lines (13%)
+Info: (DatabaseGenerator) Book 7926 'קובץ שיטות קמאי על בבא מציעא': 6000/22472 lines (26%)
 ```
 
 ## Machine
 ```
                total        used        free      shared  buff/cache   available
-Mem:           16087        7156        1275          12        7998        8931
+Mem:           16087        7143        1300          12        7985        8943
 Swap:              0           0           0
-/dev/vda        252G   51G   19G  73% /
- 14:16:14 up  8:45,  0 user,  load average: 1.09, 1.05, 1.02
+/dev/vda        252G   51G   19G  74% /
+ 14:46:16 up  9:15,  0 user,  load average: 1.01, 1.03, 1.00
 -rw-r--r--  1 root root  5192069120 Nov 20 11:56 seforim.db
 -rw-r--r--  1 root root  1155768320 Nov 20 11:56 seforim.db.buildstate
 -rw-r--r--  1 root root  1157332992 Nov 20 10:36 seforim.db.buildstate.v1
--rw-r--r--  1 root root  8592318464 Nov 20 14:16 seforim.db.candidate
+-rw-r--r--  1 root root  9125687296 Nov 20 14:46 seforim.db.candidate
 -rw-------  1 root root        3946 Nov 20 11:54 seforim.db.link-import-metrics.json
 -rw-r--r--  1 root root 10396733440 Nov 20 10:49 seforim.db.v1
 -rw-r--r--  1 root root       32768 Nov 20 10:50 seforim.db.v1-shm
