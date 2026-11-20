@@ -1,6 +1,6 @@
 # Library v38 delta — progress
 
-Updated: 2026-11-20T05:45:38Z
+Updated: 2026-11-20T06:15:40Z
 
 ## Phases done
 ```
@@ -13,44 +13,45 @@ Updated: 2026-11-20T05:45:38Z
 
 ## Last 30 log lines
 ```
-> Task :dao:compileJvmMainJava NO-SOURCE
-> Task :dao:jvmMainClasses UP-TO-DATE
-> Task :dao:jvmJar UP-TO-DATE
-> Task :generator-common:compileKotlinJvm UP-TO-DATE
-> Task :generator-common:compileJvmMainJava NO-SOURCE
-> Task :generator-common:jvmMainClasses UP-TO-DATE
-> Task :generator-common:jvmJar UP-TO-DATE
-> Task :packaging:compileKotlinJvm UP-TO-DATE
-> Task :packaging:compileJvmMainJava NO-SOURCE
-> Task :packaging:jvmMainClasses UP-TO-DATE
-> Task :packaging:jvmJar UP-TO-DATE
-> Task :otzariasqlite:compileKotlinJvm UP-TO-DATE
-> Task :otzariasqlite:compileJvmMainJava NO-SOURCE
-> Task :otzariasqlite:jvmMainClasses UP-TO-DATE
-> Task :otzariasqlite:jvmJar UP-TO-DATE
-> Task :sefariasqlite:compileKotlinJvm UP-TO-DATE
-> Task :sefariasqlite:compileJvmMainJava NO-SOURCE
-> Task :sefariasqlite:jvmMainClasses UP-TO-DATE
-> Task :sefariasqlite:jvmJar UP-TO-DATE
-
-> Task :packaging:writeReleaseInfo
-Picked up JAVA_TOOL_OPTIONS: -Djavax.net.ssl.trustStore=/etc/ssl/certs/java/cacerts -Djavax.net.ssl.trustStoreType=JKS -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=36609 -Dhttp.nonProxyHosts=localhost|127.0.0.1|::1|127.*|0.*|::|169.254.*|api.anthropic.com|api-staging.anthropic.com|api-pr-preview.an
-Picked up _JAVA_OPTIONS: -XX:+UnlockDiagnosticVMOptions -XX:DisableIntrinsic=_base64_encodeBlock,_base64_decodeBlock
-Info: (WriteReleaseInfo) Release info written to /home/user/SeforimLibrary/build/release_info.txt: 20261120054527
-Release: 20261120054527
-
-> Task :sefariasqlite:generateSefariaSqlite
-Picked up JAVA_TOOL_OPTIONS: -Djavax.net.ssl.trustStore=/etc/ssl/certs/java/cacerts -Djavax.net.ssl.trustStoreType=JKS -Dhttps.proxyHost=127.0.0.1 -Dhttps.proxyPort=36609 -Dhttp.nonProxyHosts=localhost|127.0.0.1|::1|127.*|0.*|::|169.254.*|api.anthropic.com|api-staging.anthropic.com|api-pr-preview.an
-Picked up _JAVA_OPTIONS: -XX:+UnlockDiagnosticVMOptions -XX:DisableIntrinsic=_base64_encodeBlock,_base64_decodeBlock
-Info: (SefariaSqlite) No previous build_state at /home/user/SeforimLibrary/build/seforim.db.buildstate — starting fresh.
+Info: (SefariaDirect) Inserting books and lines...
+Info: (SefariaDirect) Processed 100/5818 books
+Info: (SefariaDirect) Processed 200/5818 books
+Info: (SefariaDirect) Processed 300/5818 books
+Info: (SefariaDirect) Processed 400/5818 books
+Info: (SefariaDirect) Processed 500/5818 books
+Info: (SefariaDirect) Processed 600/5818 books
+Info: (SefariaDirect) Processed 700/5818 books
+Info: (SefariaDirect) Processed 800/5818 books
+Info: (SefariaDirect) Processed 900/5818 books
+Info: (SefariaDirect) Processed 1000/5818 books
+Info: (SefariaDirect) Processed 1100/5818 books
+Info: (SefariaDirect) Processed 1200/5818 books
+Info: (SefariaDirect) Processed 1300/5818 books
+Info: (SefariaDirect) Processed 1400/5818 books
+Info: (SefariaDirect) Processed 1500/5818 books
+Info: (SefariaDirect) Processed 1600/5818 books
+Info: (SefariaDirect) Processed 1700/5818 books
+Info: (SefariaDirect) Processed 1800/5818 books
+Info: (SefariaDirect) Processed 1900/5818 books
+Info: (SefariaDirect) Processed 2000/5818 books
+Info: (SefariaDirect) Processed 2100/5818 books
+Info: (SefariaDirect) Processed 2200/5818 books
+Info: (SefariaDirect) Processed 2300/5818 books
+Info: (SefariaDirect) Processed 2400/5818 books
+Info: (SefariaDirect) Processed 2500/5818 books
+Info: (SefariaDirect) Processed 2600/5818 books
+Info: (SefariaDirect) Processed 2700/5818 books
+Info: (SefariaDirect) Processed 2800/5818 books
+Info: (SefariaDirect) Processed 2900/5818 books
 ```
 
 ## Machine
 ```
                total        used        free      shared  buff/cache   available
-Mem:           16087        1882        2772          12       11774       14204
+Mem:           16087        6154         216          12       10058        9932
 Swap:              0           0           0
-/dev/vda        252G   26G   44G  37% /
- 05:45:38 up 14 min,  0 user,  load average: 1.68, 1.22, 0.57
--rw-r--r--  1 root root 565248 Nov 20 05:45 seforim.db
+/dev/vda        252G   28G   42G  40% /
+ 06:15:40 up 44 min,  0 user,  load average: 1.11, 1.10, 1.03
+-rw-r--r--  1 root root 2082861056 Nov 20 06:15 seforim.db
+-rw-r--r--  1 root root      33344 Nov 20 06:15 seforim.db-journal
 ```
