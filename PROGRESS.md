@@ -1,6 +1,6 @@
 # Library v38 delta — progress
 
-Updated: 2026-11-20T14:46:16Z
+Updated: 2026-11-20T15:16:19Z
 
 ## Phases done
 ```
@@ -17,49 +17,51 @@ v1.done
 
 ## Last 30 log lines
 ```
-Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 3000/6208 lines (48%)
-Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 4000/6208 lines (64%)
-Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 5000/6208 lines (80%)
-Info: (DatabaseGenerator) Book 7922 'קובץ שיטות קמאי על ראש השנה': 6000/6208 lines (96%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 3000/29186 lines (10%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 6000/29186 lines (20%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 9000/29186 lines (30%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 12000/29186 lines (41%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 15000/29186 lines (51%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 18000/29186 lines (61%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 21000/29186 lines (71%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 24000/29186 lines (82%)
-Info: (DatabaseGenerator) Book 7923 'קובץ שיטות קמאי על שבת': 27000/29186 lines (92%)
-Info: (DatabaseGenerator) books 2105/2705 (77.8%) · lines 3.5M · toc 586.4K · elapsed 2:44:42 · eta ~46:56
-Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 1000/5091 lines (19%)
-Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 2000/5091 lines (39%)
-Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 3000/5091 lines (58%)
-Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 4000/5091 lines (78%)
-Info: (DatabaseGenerator) Book 7924 'קובץ שיטות קמאי על תענית': 5000/5091 lines (98%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 4000/33158 lines (12%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 8000/33158 lines (24%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 12000/33158 lines (36%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 16000/33158 lines (48%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 20000/33158 lines (60%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 24000/33158 lines (72%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 28000/33158 lines (84%)
-Info: (DatabaseGenerator) Book 7925 'קובץ שיטות קמאי על בבא בתרא': 32000/33158 lines (96%)
-Info: (DatabaseGenerator) books 2107/2705 (77.8%) · lines 3.5M · toc 603.3K · elapsed 2:46:51 · eta ~47:21
-Info: (DatabaseGenerator) Book 7926 'קובץ שיטות קמאי על בבא מציעא': 3000/22472 lines (13%)
-Info: (DatabaseGenerator) Book 7926 'קובץ שיטות קמאי על בבא מציעא': 6000/22472 lines (26%)
+Info: (DatabaseGenerator) Book 8159 'קובץ פרשיות ומועדים': 5000/5242 lines (95%)
+Info: (DatabaseGenerator) books 2345/2705 (86.6%) · lines 4.0M · toc 762.0K · elapsed 3:12:53 · eta ~29:36
+Info: (DatabaseGenerator) Book 8166 'תורת המנחה': 1000/6260 lines (15%)
+Info: (DatabaseGenerator) Book 8166 'תורת המנחה': 2000/6260 lines (31%)
+Info: (DatabaseGenerator) Book 8166 'תורת המנחה': 3000/6260 lines (47%)
+Info: (DatabaseGenerator) Book 8166 'תורת המנחה': 4000/6260 lines (63%)
+Info: (DatabaseGenerator) Book 8166 'תורת המנחה': 5000/6260 lines (79%)
+Info: (DatabaseGenerator) Book 8166 'תורת המנחה': 6000/6260 lines (95%)
+Info: (DatabaseGenerator) books 2359/2705 (87.2%) · lines 4.0M · toc 766.0K · elapsed 3:13:54 · eta ~28:26
+Info: (DatabaseGenerator) Book 8183 'תרגום ותפסיר רסג': 2000/11885 lines (16%)
+Info: (DatabaseGenerator) Book 8183 'תרגום ותפסיר רסג': 4000/11885 lines (33%)
+Info: (DatabaseGenerator) Book 8183 'תרגום ותפסיר רסג': 6000/11885 lines (50%)
+Info: (DatabaseGenerator) Book 8183 'תרגום ותפסיר רסג': 8000/11885 lines (67%)
+Info: (DatabaseGenerator) Book 8183 'תרגום ותפסיר רסג': 10000/11885 lines (84%)
+Info: (DatabaseGenerator) Book 8185 'מפקתא פשיטתא': 1000/6043 lines (16%)
+Info: (DatabaseGenerator) Book 8185 'מפקתא פשיטתא': 2000/6043 lines (33%)
+Info: (DatabaseGenerator) Book 8185 'מפקתא פשיטתא': 3000/6043 lines (49%)
+Info: (DatabaseGenerator) Book 8185 'מפקתא פשיטתא': 4000/6043 lines (66%)
+Info: (DatabaseGenerator) Book 8185 'מפקתא פשיטתא': 5000/6043 lines (82%)
+Info: (DatabaseGenerator) Book 8185 'מפקתא פשיטתא': 6000/6043 lines (99%)
+Info: (DatabaseGenerator) Otzaria book import (phase 1): books=2367/2705 lines=4087334 tocEntries=766866 directories=371 skipped=0 acronymBooks=906 hearotMerged=338 elapsed=3:14:49
+Info: (DatabaseGenerator) Acronyms of renamed books: 453 terms carried to 69 books: 'חידושי אגדות על בבא מציעא' → 'מהרש"א - חידושי אגדות על בבא מציעא' (6, same id); 'חידושי אגדות על זבחים' → 'מהרש"א - חידושי אגדות �
+Info: (DatabaseGenerator) Acronyms of renamed books: 1 renames not followed (add the new title to the Acronymizer if it is the same book): 'גר"א על סדר עולם רבה' → 'הגר"א על סדר עולם רבה' (the title changed words, not only added or dropped them)
+Info: (DatabaseGenerator) Building category_closure table (phase 1)...
+Info: (DatabaseGenerator) Recorded source hashes for 2367 / 2705 Otzaria books
+Warn: (DatabaseGenerator) source hashes: 338 of 2705 Otzaria books have no source hash — they are fully reprocessed every cycle
+Warn: (DatabaseGenerator) source hashes: 338 not recorded — merged into a base book as inline notes (הערות על אבן ספיר, הערות על אגדות מספר המעשים (ילקוט מדרשים), הערות על אגדת ימות המשיח (ילקוט מדרשים), הערות על 
+Info: (DatabaseGenerator) report written to /home/user/SeforimLibrary/build/generator-reports/otzaria-source-hashes-not-recorded.json
+Info: (DatabaseGenerator) Phase 1 completed.
+Info: (IdAllocator) Phase-8 GC pruned orphan entries: lines=0, staleLineKeys=41, tocEntries=0, altStructures=0, altEntries=0, links=19, sourceHashes=3
 ```
 
 ## Machine
 ```
                total        used        free      shared  buff/cache   available
-Mem:           16087        7143        1300          12        7985        8943
+Mem:           16087        7901        1268          12        7261        8186
 Swap:              0           0           0
-/dev/vda        252G   51G   19G  74% /
- 14:46:16 up  9:15,  0 user,  load average: 1.01, 1.03, 1.00
+/dev/vda        252G   53G   17G  76% /
+ 15:16:19 up  9:45,  0 user,  load average: 1.05, 1.03, 1.00
 -rw-r--r--  1 root root  5192069120 Nov 20 11:56 seforim.db
 -rw-r--r--  1 root root  1155768320 Nov 20 11:56 seforim.db.buildstate
+-rw-r--r--  1 root root  1121366016 Nov 20 15:16 seforim.db.buildstate.candidate.tmp
+-rw-r--r--  1 root root        1024 Nov 20 15:14 seforim.db.buildstate.candidate.tmp-journal
 -rw-r--r--  1 root root  1157332992 Nov 20 10:36 seforim.db.buildstate.v1
--rw-r--r--  1 root root  9125687296 Nov 20 14:46 seforim.db.candidate
+-rw-r--r--  1 root root  9765847040 Nov 20 15:14 seforim.db.candidate
 -rw-------  1 root root        3946 Nov 20 11:54 seforim.db.link-import-metrics.json
 -rw-r--r--  1 root root 10396733440 Nov 20 10:49 seforim.db.v1
 -rw-r--r--  1 root root       32768 Nov 20 10:50 seforim.db.v1-shm
