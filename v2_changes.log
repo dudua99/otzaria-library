@@ -1,0 +1,37 @@
+origin/fix/dicta-gershayim-2766 not packaged: .github/data/locked_metadata.tsv
+origin/fix/dicta-gershayim-2766 not packaged: DictaToOtzaria/post_convert_fixes.tsv
+origin/fix/dicta-gershayim-2766 not packaged: DictaToOtzaria/סקריפטים/dicta_state.json
+origin/fix/dicta-gershayim-2766 RENAME אוצריא/תנך/אחרונים/באר יצחק עהת.txt -> אוצריא/תנך/אחרונים/באר יצחק עה״ת.txt
+origin/fix/dicta-gershayim-2766 manifest key DictaToOtzaria/ערוך/ספרים/אוצריא/תנך/אחרונים/באר יצחק עהת.txt -> DictaToOtzaria/ערוך/ספרים/אוצריא/תנך/אחרונים/באר יצחק עה״ת.txt
+origin/fix/dicta-gershayim-2766 RENAME אוצריא/תנך/אחרונים/דברי שאול עהת ומגילות.txt -> אוצריא/תנך/אחרונים/דברי שאול עה״ת ומגילות.txt
+origin/fix/dicta-gershayim-2766 manifest key DictaToOtzaria/ערוך/ספרים/אוצריא/תנך/אחרונים/דברי שאול עהת ומגילות.txt -> DictaToOtzaria/ערוך/ספרים/אוצריא/תנך/אחרונים/דברי שאול עה״ת ומגילות.txt
+origin/fix/dicta-gershayim-2766 RENAME אוצריא/תנך/אחרונים/ישועות יעקב עהת.txt -> אוצריא/תנך/אחרונים/ישועות יעקב עה״ת.txt
+origin/fix/dicta-gershayim-2766 manifest key DictaToOtzaria/ערוך/ספרים/אוצריא/תנך/אחרונים/ישועות יעקב עהת.txt -> DictaToOtzaria/ערוך/ספרים/אוצריא/תנך/אחרונים/ישועות יעקב עה״ת.txt
+origin/fix/dicta-gershayim-2766 ForDB/all_metadata.json: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 ForDB/all_metadata.json: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 ForDB/all_metadata.json: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 ForDB/book_info.csv: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 ForDB/book_info.csv: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 ForDB/book_info.csv: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 ForDB/sefaria_metadata_changes.csv: line-prefix edit at target line 8185: ...'"תנך/אחרונים","דברי שאול עה' -> ...'"תנך/אחרונים","דברי שאול עה״'
+origin/fix/dicta-gershayim-2766 ForDB/sefaria_metadata_changes.csv: line-prefix edit at target line 8186: ...'"תנך/אחרונים","ישועות יעקב עה' -> ...'"תנך/אחרונים","ישועות יעקב עה״'
+origin/fix/dicta-gershayim-2766 MoreBooks/ספרים/אוצריא/אודות התוכנה/SourcesBooks.csv: line-prefix edit at target line 719: ...'ישועות יעקב עהת.txt,אוצריא/תנך/אחרונים/ישועות יעקב עה' -> ...'ישועות יעקב עה״ת.txt,אוצריא/תנך/אחרונים/ישועות יעקב עה״'
+origin/fix/dicta-gershayim-2766 MoreBooks/ספרים/אוצריא/אודות התוכנה/SourcesBooks.csv: line-prefix edit at target line 715: ...'באר יצחק עהת.txt,אוצריא/תנך/אחרונים/באר יצחק עה' -> ...'באר יצחק עה״ת.txt,אוצריא/תנך/אחרונים/באר יצחק עה״'
+origin/fix/dicta-gershayim-2766 MoreBooks/ספרים/אוצריא/אודות התוכנה/SourcesBooks.csv: line-prefix edit at target line 714: ...'דברי שאול עהת ומגילות.txt,אוצריא/תנך/אחרונים/דברי שאול עה' -> ...'דברי שאול עה״ת ומגילות.txt,אוצריא/תנך/אחרונים/דברי שאול עה״'
+origin/fix/dicta-gershayim-2766 manifest hash MoreBooks/ספרים/אוצריא/אודות התוכנה/SourcesBooks.csv
+origin/fix/dicta-gershayim-2766 not packaged: all_metadata.json
+origin/fix/dicta-gershayim-2766 not packaged: all_metadata_with_file_paths.json
+origin/fix/dicta-gershayim-2766 not packaged: files_manifest.json
+origin/fix/dicta-gershayim-2766 metadata.json: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 metadata.json: exact hunk 1->1 lines
+origin/fix/dicta-gershayim-2766 metadata.json: exact hunk 1->1 lines
+origin/fix/pnei-hamelech-author-3468 not packaged: .github/data/locked_metadata.tsv
+origin/fix/pnei-hamelech-author-3468 ForDB/sefaria_metadata_changes.csv: exact hunk 1->1 lines
+origin/fix/pnei-hamelech-author-3468 not packaged: National-LibraryToOtzaria/post_convert_fixes.tsv
+origin/fix/pnei-hamelech-author-3468 manifest hash National-LibraryToOtzaria/ספרים/אוצריא/הלכה/משנה תורה/מפרשים/פני המלך.txt
+origin/fix/pnei-hamelech-author-3468 REPLACE אוצריא/הלכה/משנה תורה/מפרשים/פני המלך.txt
+origin/fix/pnei-hamelech-author-3468 metadata.json: exact hunk 1->1 lines
+origin/fix/hearot-note-markers-3775 manifest hash MoreBooks/ספרים/אוצריא/ספרי מוסר/אחרונים/הערות על מאמר דבר תורה.txt
+origin/fix/hearot-note-markers-3775 REPLACE אוצריא/ספרי מוסר/אחרונים/הערות על מאמר דבר תורה.txt
+origin/fix/hearot-note-markers-3775 manifest hash MoreBooks/ספרים/אוצריא/תלמוד בבלי/ראשונים/ריטבא/סדר מועד/הערות על חידושי הריטבא סוכה מכתב יד.txt
+origin/fix/hearot-note-markers-3775 REPLACE אוצריא/תלמוד בבלי/ראשונים/ריטבא/סדר מועד/הערות על חידושי הריטבא סוכה מכתב יד.txt
